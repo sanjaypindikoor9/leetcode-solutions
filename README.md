@@ -1,7 +1,7 @@
 # LeetCode Solutions
 
-**Name:** Sanjay P  
-**Roll Number:** B25CS0311  
+**Name:** P Sanjay
+**Roll Number:** R25EJ095  
 
 Personal LeetCode practice log — part of B25GE0101 portfolio.
 
